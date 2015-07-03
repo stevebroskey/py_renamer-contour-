@@ -1,0 +1,52 @@
+Logging started 2014-01-22 16:14:05.456000
+lastOldFname = FILE0033.MOV
+filesList[fileNum] = FILE34.MOVLogging started 2014-01-22 16:15:02.346000
+lastOldFname = FILE0033.MOV
+filesList[fileNum] = FILE34.MOV ... converted to FILE35.MOVr
+filesList[fileNum] = FILE35.MOV ... converted to FILE36.MOVr
+filesList[fileNum] = FILE36.MOV ... converted to FILE37.MOVr
+filesList[fileNum] = FILE37.MOV ... converted to FILE38.MOVr
+filesList[fileNum] = FILE38.MOV ... converted to FILE39.MOVr
+Exiting at the end ... 2014-01-22 16:15:02.347000
+Logging started 2014-01-22 16:16:27.675000
+lastOldFname = FILE0033.MOV
+filesList[fileNum] = FILE35.MOVr ... converted to FILE34.MOVra
+filesList[fileNum] = FILE36.MOVr ... converted to FILE35.MOVra
+filesList[fileNum] = FILE37.MOVr ... converted to FILE36.MOVra
+filesList[fileNum] = FILE38.MOVr ... converted to FILE37.MOVra
+filesList[fileNum] = FILE39.MOVr ... converted to FILE38.MOVra
+Exiting at the end ... 2014-01-22 16:16:27.677000
+Logging started 2014-01-22 17:06:39.688000
+lastOldFname = FILE0033.MOV
+filesList[fileNum] = FILE34.MOVra ... converted to FILE34.MOV
+filesList[fileNum] = FILE35.MOVra ... converted to FILE35.MOV
+filesList[fileNum] = FILE36.MOVra ... converted to FILE36.MOV
+filesList[fileNum] = FILE37.MOVra ... converted to FILE37.MOV
+filesList[fileNum] = FILE38.MOVra ... converted to FILE38.MOV
+Exiting at the end ... 2014-01-22 17:06:39.689000
+Logging started 2014-01-22 17:09:38.953000
+lastOldFname = FILE0033.MOV
+filesList[fileNum] = FILE34.MOV ... converted to FILE34.MOVe
+filesList[fileNum] = FILE35.MOV ... converted to FILE35.MOVe
+filesList[fileNum] = FILE36.MOV ... converted to FILE36.MOVe
+filesList[fileNum] = FILE37.MOV ... converted to FILE37.MOVe
+filesList[fileNum] = FILE38.MOV ... converted to FILE38.MOVe
+Exiting at the end ... 2014-01-22 17:09:38.954000
+Logging started 2014-01-22 17:08:12.650000
+lastOldFname = FILE0033.MOV
+filesList[fileNum] = FILE34.MOVLogging started 2014-01-22 17:10:22.667000
+lastOldFname = FILE0033.MOV
+filesList[fileNum] = FILE0034.MOVe ... converted to FILE0034.MOVasdfa
+filesList[fileNum] = FILE0035.MOVe ... converted to FILE0035.MOVasdfa
+filesList[fileNum] = FILE0036.MOVe ... converted to FILE0036.MOVasdfa
+filesList[fileNum] = FILE0037.MOVe ... converted to FILE0037.MOVasdfa
+filesList[fileNum] = FILE0038.MOVe ... converted to FILE0038.MOVasdfa
+Exiting at the end ... 2014-01-22 17:10:22.668000
+Logging started 2014-01-22 17:10:43.715000
+lastOldFname = FILE0033.MOV
+filesList[fileNum] = FILE0034.MOVasdfa ... converted to FILE0034.MOV
+filesList[fileNum] = FILE0035.MOVasdfa ... converted to FILE0035.MOV
+filesList[fileNum] = FILE0036.MOVasdfa ... converted to FILE0036.MOV
+filesList[fileNum] = FILE0037.MOVasdfa ... converted to FILE0037.MOV
+filesList[fileNum] = FILE0038.MOVasdfa ... converted to FILE0038.MOV
+Exiting at the end ... 2014-01-22 17:10:43.716000

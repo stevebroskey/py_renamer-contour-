@@ -1,0 +1,11 @@
+Logging started 2014-01-24 17:11:23.482000
+oldFilesList = ['FirstProgram', 'FlatUIKit-master', 'FlatUIKit-master.zip', 'HelloWorld', 'log.txt', 'Pray4', 'Pray4App', 'py_renamer(contour)', 'py_renamer(contour)logfile.out', 'py_renamer(contour)logfile.out.1', 'RW-Objective-C-Cheatsheet-v1_2.pdf', 'workXMLpy']
+Exiting at the end ... 2014-01-24 17:11:23.486000
+----- Logging started 2014-01-24 17:13:24.377000
+oldFilesList = ['FirstProgram', 'FlatUIKit-master', 'FlatUIKit-master.zip', 'HelloWorld', 'log.txt', 'Pray4', 'Pray4App', 'py_renamer(contour)', 'py_renamer(contour)logfile.out', 'py_renamer(contour)logfile.out.1', 'py_renamer(contour)logfile.out.2', 'RW-Objective-C-Cheatsheet-v1_2.pdf', 'workXMLpy']
+counter = 0
+Exiting at the end ... 2014-01-24 17:13:24.397000 -----
+----- Logging started 2014-01-24 17:17:17.004000
+oldFilesList = ['FirstProgram', 'FlatUIKit-master', 'FlatUIKit-master.zip', 'HelloWorld', 'Pray4', 'Pray4App', 'py_renamer(contour)', 'RW-Objective-C-Cheatsheet-v1_2.pdf', 'workXMLpy']
+counter = 0
+Exiting at the end ... 2014-01-24 17:17:17.006000 -----
